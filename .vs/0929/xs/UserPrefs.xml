@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F152FAE8-40D3-32F1-3F3E-C4D159100EA1}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Materials/OutLine.shader">
+    <Files>
+      <File FileName="Assets/Scripts/aclass.cs" Line="27" Column="39" />
+      <File FileName="Assets/Scripts/forSquarePrefab.cs" Line="30" Column="10" />
+      <File FileName="Assets/Scripts/Select.cs" Line="19" Column="5" />
+      <File FileName="Assets/Materials/OutLine.shader" Line="18" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

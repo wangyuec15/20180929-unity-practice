@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7d9efd3e647c24befb7eac49100b4f44
+timeCreated: 1538840810
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - outline: {fileID: 2100000, guid: ab3f17b7ff2a648b2bc1856eacf22d7d, type: 2}
+  - normal: {fileID: 2100000, guid: 406a01b5563b543ed81eccafae469202, type: 2}
+  - red: {fileID: 2100000, guid: 500632ceca1fe454c92ac3d5ef1d339d, type: 2}
+  - squarePrefab: {fileID: 1266321170495114, guid: 93b53fd5da1ee488ebed138038f769b1,
+      type: 2}
+  - move: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

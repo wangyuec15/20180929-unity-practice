@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9e6dd2f15c8bb4976b2cf2ba15f05bf1
+timeCreated: 1538199578
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - brickPrefab: {fileID: 1138669442982560, guid: 1f4842b2bc5c145daba3b5b330d7b2ea,
+      type: 2}
+  - squarePrefab: {fileID: 1266321170495114, guid: 93b53fd5da1ee488ebed138038f769b1,
+      type: 2}
+  - floorPrefab: {fileID: 1310273182113268, guid: f3161427422a44213acdf343f663c458,
+      type: 2}
+  - emmm: {fileID: 1379828962216580, guid: 043e73d645fa14c1b8645ff063a74890, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
